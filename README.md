@@ -29,7 +29,7 @@
             <h3>Contact Us:</h3>
             <p>📞 Phone: <a href="tel:+94774403831">0774403831</a></p>
             <p>📧 Email: <a href="mailto:technologypowerflash@gmail.com">technologypowerflash@gmail.com</a></p>
-            <p>📍 Address: PowerFlash, Adurathwila, Poddala, Galle, S.A.</p>
+            <p>📍 Address: PowerFlash, Adurathwila, Poddala, Galle, Sri Lanka.</p>
         </div>
 
         <div id="successMessage" class="hidden">
